@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TalhaHassan/static/css/main.ae31682d.css",
+    "main.js": "/TalhaHassan/static/js/main.a544651f.js",
+    "static/js/787.37faa4c4.chunk.js": "/TalhaHassan/static/js/787.37faa4c4.chunk.js",
+    "static/media/cv.pdf": "/TalhaHassan/static/media/cv.82dd73292c8e0eb70e46.pdf",
+    "static/media/me.png": "/TalhaHassan/static/media/me.30ccd5412491cdadce5d.png",
+    "static/media/me-about.jpg": "/TalhaHassan/static/media/me-about.318408595c324013fc34.jpg",
+    "static/media/portfolio1.jpg": "/TalhaHassan/static/media/portfolio1.a8d9ce866dad144d6438.jpg",
+    "static/media/portfolio3.jpg": "/TalhaHassan/static/media/portfolio3.074580954d44f5ffffd5.jpg",
+    "static/media/portfolio2.jpg": "/TalhaHassan/static/media/portfolio2.604f12e97c70007c8037.jpg",
+    "index.html": "/TalhaHassan/index.html",
+    "main.ae31682d.css.map": "/TalhaHassan/static/css/main.ae31682d.css.map",
+    "main.a544651f.js.map": "/TalhaHassan/static/js/main.a544651f.js.map",
+    "787.37faa4c4.chunk.js.map": "/TalhaHassan/static/js/787.37faa4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae31682d.css",
+    "static/js/main.a544651f.js"
+  ]
+}
